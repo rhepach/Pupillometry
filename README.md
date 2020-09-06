@@ -4,11 +4,11 @@ Materials used in our studies.
 
 The sequence of the clips for one measurement (i.e., two elicitations of a pupillary light reflex) is:
 
-blue_qu -> blue640_qu_1 -> blue640_qu_2
+blue_qu1 -> blue640_qu_1 -> blue640_qu_2
 
 *or*
 
-purple_qu -> purple640_qu_1 -> purple640_qu_2
+purple_qu1 -> purple640_qu_1 -> purple640_qu_2
 
 
 For more details, see:
