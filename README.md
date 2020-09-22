@@ -8,7 +8,7 @@ This includes the original stimuli used in our first study.
 
 Reference:
 
-*Hepach, R., Vaish, A., & Tomasello, M. (2012). Young children are intrinsically motivated to see others helped. Psychological Science, 23(9), 967-972.
+## Hepach, R., Vaish, A., & Tomasello, M. (2012). Young children are intrinsically motivated to see others helped. Psychological Science, 23(9), 967-972.
 
 # Folder: 2nd_generation_FullHDres
 
