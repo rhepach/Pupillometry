@@ -1,6 +1,6 @@
 # Pupillometry
 
-Here you will find the video stimuli used in our studies to measure changes in pupil dilation.
+Here you will find the video stimuli used in our studies to measure changes in pupil dilation. If you find the respective stimuli helpful for your own work, please consider citing the source(s). 
 
 ## Folder: 1st_generation
 
